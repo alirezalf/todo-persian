@@ -1,7 +1,4 @@
 
----
-
-## ✅ فایل نهایی `README.md`
 
 ````markdown
 # React + Vite Persian Todo App
